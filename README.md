@@ -10,18 +10,9 @@ This project utilizes a trained machine learning model to deliver accurate movie
 
 📸 Project Structure
 
-Copy
-├── .ipynb_checkpoints          # Jupyter notebook checkpoints
-├── .gitattributes              # Git attributes
-├── LICENSE                     # License for the project
-├── app.py                      # Main application file
-├── movie-recommender.ipynb     # Jupyter notebook for the recommender system
-├── movies_dict.pkl             # Dictionary of movies
-├── netflix_titles.csv          # Dataset of Netflix titles
-├── procfile                    # Configuration file for deployment
-├── requirements.txt            # List of dependencies
-├── setup.sh                    # Setup script for environment
-├── similarity.pkl              # Similarity matrix for recommendations
+![image](https://github.com/user-attachments/assets/03016492-a68c-41ae-ae24-c7131b870c3e)
+
+
 ✨ Features
 Personalized Recommendations: Uses a similarity matrix to recommend movies based on user preferences.
 
